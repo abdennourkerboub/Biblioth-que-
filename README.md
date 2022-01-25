@@ -1,6 +1,6 @@
 # Bibliothéque
-Developer : Abdennour Kerboub
-Contact : abdennour.kerboub@gmil.com
+- Developer : Abdennour Kerboub
+- Contact : abdennour.kerboub@gmil.com
 
 MYSQL a été utilisé pour la base de données dans ce projet. Il contient 4 tableaux :-
 
